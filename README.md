@@ -1,1 +1,1 @@
-# React-Basic-Project
+This is a Basic React project that fetches the data from backend using APIs and displays the data of the products .It also allows the user to search for certain product or sort it based on given criteria.
